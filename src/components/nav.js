@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React, { useState, useEffect } from 'react';
 import { Link } from 'gatsby';
 import PropTypes from 'prop-types';
@@ -17,7 +18,7 @@ const StyledHeader = styled.header`
   padding: 0px 50px;
   width: 100%;
   height: var(--nav-height);
-  background-color: rgba(10, 25, 47, 0.85);
+  background-color: var(--navy);
   filter: none !important;
   pointer-events: auto !important;
   user-select: auto !important;
@@ -38,7 +39,7 @@ const StyledHeader = styled.header`
       css`
         height: var(--nav-scroll-height);
         transform: translateY(0px);
-        background-color: rgba(10, 25, 47, 0.85);
+        background-color:  var(--navy);
         box-shadow: 0 10px 30px -10px var(--navy-shadow);
       `};
 
@@ -204,6 +205,14 @@ const Nav = ({ isHome }) => {
       )}
     </div>
   );
+
+  // const NameLink = (
+  //   <div className="logo" tabIndex="-1">
+  //     <a>
+  //       Ahmed Tareque
+  //     </a>
+  //   </div>
+  // );
 
   const ResumeLink = (
     <a className="resume-button" href="/resume.pdf" target="_blank" rel="noopener noreferrer">

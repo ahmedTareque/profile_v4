@@ -1,3 +1,4 @@
+/* eslint-disable no-irregular-whitespace */
 import React, { useEffect, useRef } from 'react';
 import { StaticImage } from 'gatsby-plugin-image';
 import styled from 'styled-components';
@@ -6,7 +7,7 @@ import sr from '@utils/sr';
 import { usePrefersReducedMotion } from '@hooks';
 
 const StyledAboutSection = styled.section`
-  max-width: 900px;
+  max-width: 1000px;
 
   .inner {
     display: grid;
@@ -82,7 +83,7 @@ const StyledPic = styled.div`
       position: relative;
       border-radius: var(--border-radius);
       mix-blend-mode: multiply;
-      filter: grayscale(100%) contrast(1);
+      filter: grayscale(50%) contrast(1);
       transition: var(--transition);
     }
 
@@ -125,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['Java', 'Spring Boot', 'JavaScript (ES6+)', 'Angular', 'Python', 'Jupyter', 'Postgresql'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -133,35 +134,22 @@ const About = () => {
 
       <div className="inner">
         <StyledText>
+
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+            Well in university life, I co-founded a tech startup with a small team that’s the very beginning and since then I enjoy learning and playing around with code and errors.
+            </p>
+
+            <p>Building safe, scalable software systems is something I'm enthusiastic about. Fast-forward to recently, I have had the privilege of working on a Government project on both front-end and back-end development before moving to Norman, Oklahoma USA. </p>
+            
+            <p>Currently I am feeling passionate about Machine learning. How model works, model validation with comparing alternatives, Underfitting and overfitting for better performance over important features from data, figuring out individual predictions over features and so on so forth.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              <b>
+                Now a days, I am challenging myself to be disciplined as in maintaining consistancy in a proper diet, going to gym, learning chess, journaling. Well frankly speaking, it is really difficult in terms of ditching all sorts of distractions and staying focused. Though I am failing often, I am growing and I am pretty confident I am gonna do that.
+              </b>
             </p>
-
-            <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
-            </p>
-
-            <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
 
           <ul className="skills-list">
@@ -173,7 +161,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/me.jpeg"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}

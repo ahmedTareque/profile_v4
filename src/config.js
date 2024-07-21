@@ -1,27 +1,31 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'where.is.tareque@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/Tareque2208',
     },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
-    },
+    // {
+    //   name: 'Instagram',
+    //   url: 'https://www.instagram.com/bchiang7',
+    // },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://x.com/IsTareque',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/ahmed-tareque-47215466/',
     },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
-    },
+    // {
+    //   name: 'Codepen',
+    //   url: 'https://codepen.io/bchiang7',
+    // },
+    // {
+    //   name: 'Kaggle',
+    //   url: 'https://Kaggle.io/bchiang7',
+    // },
   ],
 
   navLinks: [
@@ -44,9 +48,9 @@ module.exports = {
   ],
 
   colors: {
-    green: '#64ffda',
-    navy: '#0a192f',
-    darkNavy: '#020c1b',
+    green: '#4adb26',
+    navy: '#E6FFE6',
+    darkNavy: '#052210',
   },
 
   srConfig: (delay = 200, viewFactor = 0.25) => ({
