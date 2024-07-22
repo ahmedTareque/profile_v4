@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
- <img src="https://img.shields.io/github/last-commit/ahmedTareque/profile_v4/development">
+ <img src="https://img.shields.io/github/last-commit/ahmedTareque/profile_v4/master">
  <a href="https://github.com/ahmedTareque?tab=repositories"><img src="https://img.shields.io/github/stars/ahmedTareque?affiliations=OWNER%2CCOLLABORATOR&color=success"></a>
  <a href="https://github.com/ahmedTareque/?tab=followers"><img src="https://img.shields.io/github/followers/ahmedTareque?label=Followers&color=success"></a>
 </p>
