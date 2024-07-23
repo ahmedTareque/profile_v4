@@ -3,6 +3,7 @@ date: '1'
 title: 'National Skills Portal'
 cover: './nsda.png'
 external: 'https://www.skillsportal.gov.bd/#/'
+cta: ''
 tech:
   - Java
   - Spring Boot
