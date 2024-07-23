@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Ahmed Tareque',
     description:
-      'Ahmed Tareque is a software engineer who is entusiastic to learn and exlore.',
+      'Ahmed Tareque is a software engineer who is entusiastic to learn and explore.',
     siteUrl: 'https://ahmedtareque.netlify.app/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@IsTareque',
