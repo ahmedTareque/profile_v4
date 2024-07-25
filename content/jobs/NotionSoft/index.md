@@ -3,7 +3,7 @@ date: '2020-01-01'
 title: 'Junior Software Engineer'
 company: 'NotionSoft'
 location: 'Dhaka, Bangladesh'
-range: 'January - July 2020'
+range: 'January 2020 - July 2020'
 url: 'https://www.facebook.com/notionsoft/'
 ---
 
