@@ -13,7 +13,7 @@
 <a href="https://ahmedtareque.netlify.app" target="_blank">https://ahmedtareque.netlify.app</a>
 </p>
 
-![demo](/Home_Page.png)
+![demo](/Home_page.png)
 
 ## Special Thanks
 
