@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Ahmed Tareque Portfolio version 2
+  Ahmed Tareque Portfolio version 4
 </h1>
 
 <p align="center">
@@ -9,7 +9,11 @@
  <a href="https://github.com/ahmedTareque/?tab=followers"><img src="https://img.shields.io/github/followers/ahmedTareque?label=Followers&color=success"></a>
 </p>
 
-![demo](/Home_page.png)
+<p  align="center" >
+<a href="https://ahmedtareque.netlify.app" target="_blank">https://ahmedtareque.netlify.app</a>
+</p>
+
+![demo](/Home_Page.png)
 
 ## Special Thanks
 
