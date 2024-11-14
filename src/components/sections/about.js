@@ -147,7 +147,7 @@ const About = () => {
 
             <p>
               <b>
-                Now a days, I am challenging myself to be disciplined as in maintaining consistancy in a proper diet, going to gym, learning chess, journaling. Well frankly speaking, it is really difficult in terms of ditching all sorts of distractions and staying focused. Though I am failing often, I am growing and I am pretty confident I am gonna do that.
+                Now a days, I am challenging myself to be disciplined as in maintaining consistancy in a proper diet, completing THE MURPH CHALLENGE, journaling. Well frankly speaking, it is really difficult in terms of ditching all sorts of distractions and staying focused. Though I am failing often, I am growing and I am pretty confident I am gonna do that.
               </b>
             </p>
           </div>
