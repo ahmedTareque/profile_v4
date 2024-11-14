@@ -6,6 +6,7 @@ external: 'https://arifwaterproofing.com'
 github: 'https://tareque2208.github.io/Arif-Water-Proofing/'
 # cta: 'https://tareque2208.github.io/Arif-Water-Proofing/'
 tech:
+  - Bootstrap
   - Laravel
   - PHP
 ---

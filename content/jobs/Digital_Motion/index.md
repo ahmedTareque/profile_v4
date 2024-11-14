@@ -3,7 +3,7 @@ date: '2021-01-10'
 title: 'Full Stack Developer'
 company: 'Digital Motion'
 location: 'Capetown, SouthAfrica (Remote)'
-range: 'January - August 2021'
+range: 'January 2021 - August 2021'
 url: 'https://digitalmotion.io/'
 ---
 
