@@ -65,7 +65,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm a Software Engineer with over three years of experience in the industry. Currently, I’m focusing on participating in machine learning competitions as of my curiosity towards machine learning at {' '}
+        I'm a Software Engineer with over four years of experience in the industry. Currently, I’m focusing on participating in machine learning competitions as of my curiosity towards machine learning at {' '}
         <a href="https://www.kaggle.com/tareque" target="_blank" rel="noreferrer">
           Kaggle
         </a>

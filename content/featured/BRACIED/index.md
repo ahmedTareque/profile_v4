@@ -2,7 +2,7 @@
 date: '2'
 title: 'BRAC IED'
 cover: './BRACIED.png'
-external: 'https://bracied.iedbracu.ac.bd'
+external: 'https://bracied.com/'
 tech:
   - Wordpress
   - PHP

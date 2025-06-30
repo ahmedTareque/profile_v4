@@ -1,9 +1,9 @@
 ---
-date: '2020-01-01'
-title: 'Junior Software Engineer'
+date: '2019-06-01'
+title: 'Intern & Junior Software Engineer'
 company: 'NotionSoft'
 location: 'Dhaka, Bangladesh'
-range: 'January 2020 - July 2020'
+range: 'July 2019 - July 2020'
 url: 'https://www.facebook.com/notionsoft/'
 ---
 
