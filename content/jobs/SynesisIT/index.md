@@ -3,7 +3,7 @@ date: '2021-10-01'
 title: 'Full Stack Developer'
 company: 'Synesis IT'
 location: 'Dhaka, BD'
-range: 'October 2021 - July 2023'
+range: 'October 2021 - August 2023'
 url: 'https://synesisit.com.bd/'
 ---
 
